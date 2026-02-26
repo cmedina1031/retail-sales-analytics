@@ -16,7 +16,7 @@ End-to-end retail data analysis project using Python and Google Looker Studio.
 - Sales Over Time (Monthly)
 
 ## 📊 Dashboard Preview
-![Dashboard](images/dashboard_preview.png)
+![Dashboard](images/Dashboard_preview1.png)
 
 ## 📁 Project Structure
 data/ – dataset  
